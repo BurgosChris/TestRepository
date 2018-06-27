@@ -1,8 +1,8 @@
-GIT
+GIT CONTROL DE VERCINES
 El control de versiones es un sistema que registra los cambios en un archivo o conjunto de archivos y ayuda
 
 Te permite:
-• Revertir archivos o todo el proyecto a un estado anterior
-• Comparar los cambios a lo largo del tiempo
-• ¿Ver quién modificó qué?
-• Controlar modificaciones por parte de colaboradores con el permiso de admin / owners
+â€¢ Revertir archivos o todo el proyecto a un estado anterior
+â€¢ Comparar los cambios a lo largo del tiempo
+â€¢ Â¿Ver quiÃ©n modificÃ³ quÃ©?
+â€¢ Controlar modificaciones por parte de colaboradores con el permiso de admin / owners
